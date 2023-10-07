@@ -1,0 +1,4 @@
+export enum USER_TYPE {
+  PATIENT = 'PATIENT',
+  HEALTH_PROVIDER = 'HEALTH_PROVIDER',
+}
